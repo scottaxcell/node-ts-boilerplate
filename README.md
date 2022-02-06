@@ -21,6 +21,5 @@ yarn add --dev --exact prettier
 https://github.com/prettier/eslint-config-prettier
 yarn add --dev eslint-config-prettier
 
-
 yarn add --dev rimraf
 ```
