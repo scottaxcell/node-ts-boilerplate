@@ -2,7 +2,7 @@
 
 Node.js application template with Docker, TypeScript, Eslint, and Prettier
 
-## Boilerplate setup
+## How this template was created
 
 ```
 yarn init
@@ -23,3 +23,11 @@ yarn add --dev eslint-config-prettier
 
 yarn add --dev rimraf
 ```
+
+## License
+
+[MIT License](https://github.com/scottaxcell/winddcutil/blob/main/LICENSE)
+
+## Issues
+
+If you find a bug or have a feature request, please file an issue using [the issue tracker on GitHub](https://github.com/scottaxcell/node-ts-boilerplate/issues).
