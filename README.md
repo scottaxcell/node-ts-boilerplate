@@ -1,6 +1,10 @@
-# Node.js TypeScript Boilerplate
+# Node.js TypeScript Application Boilerplate
 
-Node.js application template with Docker, TypeScript, Eslint, and Prettier
+Bare bones Node.js application template with Docker, TypeScript, Eslint, and Prettier configurations.
+
+## Usage
+
+Initialize your GitHub repository with the same directory structure and files using the ```Use this template``` feature.
 
 ## How this template was created
 
