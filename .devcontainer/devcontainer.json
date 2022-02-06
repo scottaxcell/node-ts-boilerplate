@@ -1,0 +1,16 @@
+{
+    "name": "Node TS Boilerplate",
+    // Set *default* container specific settings.json values on container create.
+    "settings": {},
+    // Add the IDs of extensions you want installed when the container is created.
+    "extensions": [
+        "dbaeumer.vscode-eslint",
+        "esbenp.prettier-vscode",
+        "k--kato.intellij-idea-keybindings"
+    ],
+    "forwardPorts": [3000],
+    "dockerComposeFile": "./docker-compose.yml",
+    "service": "dev",
+    "workspaceFolder": "/node-ts-boilerplate",
+    "postCreateCommand": "yarn install"
+}
